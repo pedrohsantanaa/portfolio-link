@@ -17,7 +17,7 @@ header{
 }
 
 .txt-titulo{
-    font-size: 220% !important;
+    font-size: 280% !important;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold !important;
 }
@@ -52,7 +52,7 @@ a{
     margin-left: 25% !important;
     margin-right: 25% !important;
     margin-top: 1% !important;
-    margin-bottom: 40% !important;
+    margin-bottom: 15% !important;
 }
 
 .img-icone{
@@ -85,10 +85,15 @@ a{
         margin-left: 10% !important;
         margin-right: 25% !important;
         margin-top: 1% !important;
-        margin-bottom: 15% !important;
+        margin-bottom: 40% !important;
     }
     .img-perfil{
         width: 30%;
         border-radius: 50%;
+    }
+    .txt-titulo{
+        font-size: 220% !important;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold !important;
     }
 }
